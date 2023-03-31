@@ -3,6 +3,9 @@
 #include "work.h"
 using namespace std;
 
+//todo
+//add comments in the morning
+
 void verify(double moneyEntered)
 {
     string yN;
